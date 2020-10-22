@@ -1,4 +1,4 @@
-from encryptor import Honey
+from bin.encryptor import Honey
 
 h = Honey()
 
